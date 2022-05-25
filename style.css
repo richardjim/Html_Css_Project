@@ -77,7 +77,7 @@ section {
 }
 
 .keep_product {
-    background: url(image_file/heading-decoration.png);
+    background: url(heading-decoration.png);
     background-repeat: no-repeat;
     /* background-size: 380px 60px; */
     /* background-size: cover; */
