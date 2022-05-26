@@ -45,7 +45,7 @@ header a:hover {
 }
 
 .login_btn {
-    margin-right: -1rem;
+    margin-right: -.6rem;
     margin-left: 18rem;
     border: 1px solid lightgray;
     box-sizing: border-box;
@@ -73,7 +73,7 @@ section {
     align-items: center;
     margin-top: 2rem;
     margin-left: 4rem;
-    margin-right: 5rem;
+    margin-right: -2rem;
 }
 
 .keep_product {
@@ -174,8 +174,8 @@ aside {
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin-top: -4.3rem;
-    margin-left: 62rem;
+    margin-top: -4rem;
+    margin-left: 67rem;
     margin-bottom: 2rem;
     background-color: #fff;
     box-sizing: border-box;
