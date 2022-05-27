@@ -85,7 +85,7 @@ section {
 }
 
 .keep_product h2 {
-    font-size: 35px;
+    font-size: 40px;
     color: #0f0fe6;
 
 }
@@ -96,7 +96,7 @@ section {
    margin-top: 8rem; */
 /* } */
 .container_text h1 {
-    font-size: 40px;
+    font-size: 45px;
     color: #020220;
     margin-top: 6rem;
     margin-bottom: .2rem;
@@ -156,6 +156,7 @@ aside {
     padding-top: 3rem;
     margin-right: 4rem;
     margin-left: 5rem;
+    margin-top: 5rem;
 }
 
 .image_log {
@@ -170,11 +171,11 @@ aside {
 }
 
 .box {
-    position: absolute;
+    position: relative;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    margin-top: -4.3rem;
+    margin-top: -4.9rem;
     margin-left: 67rem;
     margin-bottom: -6rem;
     background-color: #fff;
@@ -182,11 +183,11 @@ aside {
     /* box-shadow: #0f0fe6; */
     box-shadow: 5px 10px 10px #e0f2f8;
     width: 17%;
-    height: 12%;
     border-radius: 10px;
     border: 2px solid white;
     padding-top: .8rem;
     padding-right: 3rem;
+    padding-bottom: 1rem;
 }
 
 .time {
